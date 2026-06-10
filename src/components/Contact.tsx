@@ -172,7 +172,7 @@ export default function Contact() {
                 Live Yard Map Coordinates
               </span>
               <a
-                href="https://maps.google.com/?q=Ram+ji+Electricals,+Khasra+1122,+tiranga+building,+Paul+Colony,+Rithala,+Rohini,+Delhi,+110085"
+                href="https://maps.google.com/?q=Haryana+Metal+Enterprise,+Khasra+1122,+tiranga+building,+Paul+Colony,+Rithala,+Rohini,+Delhi,+110085"
                 target="_blank"
                 rel="noreferrer"
                 className="text-xs text-[#B22222] hover:text-red-900 font-bold flex items-center hover:underline uppercase font-mono tracking-wider"
@@ -196,7 +196,7 @@ export default function Contact() {
             </div>
 
             <div className="bg-gray-50 border border-gray-200 rounded-sm p-4 text-xs text-gray-500 leading-relaxed font-sans">
-              <strong>Directions Note:</strong> We are situated near the <strong>Rithala Metro Station</strong> (Red Line terminus). Head toward Paul Colony, we are located in the <strong>tiranga building (Khasra 1122)</strong> at Ram ji Electricals.
+              <strong>Directions Note:</strong> We are situated near the <strong>Rithala Metro Station</strong> (Red Line terminus). Head toward Paul Colony, we are located in the <strong>tiranga building (Khasra 1122)</strong> at Haryana Metal Enterprise.
             </div>
           </div>
 

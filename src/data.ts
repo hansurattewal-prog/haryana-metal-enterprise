@@ -7,8 +7,8 @@ export const COMPANY_INFO = {
   phone: "+919560019790",
   phoneDisplay: "+91 9560019790",
   email: "haryanametalenterprise@gmail.com",
-  address: "Ram ji Electricals, Khasra 1122, tiranga building, Paul Colony, Rithala, Rohini, Delhi, 110085",
-  gmapEmbedUrl: "https://maps.google.com/maps?q=Ram%20ji%20Electricals,%20Khasra%201122,%20tiranga%20building,%20Paul%20Colony,%20Rithala,%20Rohini,%20Delhi,%20110085&t=&z=15&ie=UTF8&iwloc=&output=embed",
+  address: "Haryana Metal Enterprise, Khasra 1122, tiranga building, Paul Colony, Rithala, Rohini, Delhi, 110085",
+  gmapEmbedUrl: "https://maps.google.com/maps?q=Haryana%20Metal%20Enterprise,%20Khasra%201122,%20tiranga%20building,%20Paul%20Colony,%20Rithala,%20Rohini,%20Delhi,%20110085&t=&z=15&ie=UTF8&iwloc=&output=embed",
   whatsappUrl: "https://wa.me/919560019790?text=Hello%20Haryana%20Metal%20Enterprises%2C%20I%20am%20interested%20in%20getting%20a%20quote%20for%20industrial%20steel%2Froofing%20sheets.",
 };
 
@@ -173,6 +173,6 @@ export const FAQS: FAQ[] = [
   },
   {
     question: "Where is your main office/factory located?",
-    answer: "Our main yard is at Ram ji Electricals, Khasra 1122, tiranga building, Paul Colony, Rithala, Rohini, Delhi, 110085 (Very close to Rithala Metro Station). You are welcome to visit and inspect the material and machinery in action!"
+    answer: "Our main yard is at Haryana Metal Enterprise, Khasra 1122, tiranga building, Paul Colony, Rithala, Rohini, Delhi, 110085 (Very close to Rithala Metro Station). You are welcome to visit and inspect the material and machinery in action!"
   }
 ];
